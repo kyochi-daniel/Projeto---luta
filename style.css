@@ -9,7 +9,7 @@ body {
 
 .fightarea {
     display: flex;
-    gap: 1.25rem;
+    gap: 1.23rem;
 }
 
 #char, #monster {
